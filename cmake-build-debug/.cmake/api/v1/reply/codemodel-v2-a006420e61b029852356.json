@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CIS_2107_Computer_Systems_and_Low_Level_Programming",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CIS_2107_Computer_Systems_and_Low_Level_Programming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CIS_2107_Computer_Systems_and_Low_Level_Programming-Debug-dade831c21f4a06f17dc.json",
+					"name" : "CIS_2107_Computer_Systems_and_Low_Level_Programming",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/paul/Documents/GitHub/CIS 2107 Computer Systems and Low-Level Programming/cmake-build-debug",
+		"source" : "C:/Users/paul/Documents/GitHub/CIS 2107 Computer Systems and Low-Level Programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
